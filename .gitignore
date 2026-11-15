@@ -28,3 +28,7 @@ userSetup.local.py
 *.local.py
 __pycache__/
 .build/
+.maya-runtime/
+.maya-contract-runtime/
+.pytest_cache/
+build-npm-audit*.json
