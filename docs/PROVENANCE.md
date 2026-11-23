@@ -15,6 +15,6 @@ On 2026-10-08, the repository was transferred using GitHub's repository transfer
 
 The repository ID and node ID were read back after transfer and matched the original repository. The old API address redirected to the same transferred repository. Git history, existing author attribution and original project files are retained; migration changes are subsequent commits.
 
-No LICENSE file was present in the source tree at the preserved source HEAD, and GitHub's license field was null. This migration does not add a license or expand permission to use the original work. AuroraView itself and third-party dependencies retain their own independent licenses. A future explicit license decision belongs to the original rights holder.
+No LICENSE file was present in the source tree at the preserved source HEAD, and GitHub's license field was null. The current branch adds an MIT license for repository-owned source code after review by the original rights holder, Long Hao. This does not change the preserved commit or grant rights to AuroraView itself or third-party dependencies, which retain their own independent licenses.
 
 The preview image is retained from the original project. It is historical project material, not proof that the migrated revision has passed native UI acceptance.

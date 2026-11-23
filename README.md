@@ -160,4 +160,4 @@ The source demo archive in `dist/` contains the built frontend, frontend source,
 | Missing/ambiguous node error | Refresh after edits and use full DAG paths. |
 | Native wheel or WebView initialization failure | Check Maya's Python ABI, Windows x64 and WebView2 Runtime; capture the Script Editor traceback. |
 
-The project is originally by **Long Hao (loonghao)**. The source repository has no LICENSE file at the preserved migration commit; see [provenance](docs/PROVENANCE.md). AuroraView's own MIT license does not automatically license this separate demo.
+The project is originally by **Long Hao (loonghao)**. The preserved migration commit had no LICENSE file. The current repository-owned source is licensed under MIT in [LICENSE](LICENSE); see [provenance](docs/PROVENANCE.md). AuroraView and third-party dependencies retain their own independent licenses.
