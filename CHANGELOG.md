@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.1.6](https://github.com/try-auroraview/auroraview-maya-outliner/compare/maya-outliner-v0.1.5...maya-outliner-v0.1.6) (2026-11-23)
+
+
+### Features
+
+* share Maya scene tools through explicit contracts ([#52](https://github.com/try-auroraview/auroraview-maya-outliner/issues/52)) ([bc934e7](https://github.com/try-auroraview/auroraview-maya-outliner/commit/bc934e7e454c59b8f2fd707bf686c68ef432e55d))
+
+
+### Bug Fixes
+
+* correct AuroraView attribution and trademark scope ([#55](https://github.com/try-auroraview/auroraview-maya-outliner/issues/55)) ([a232913](https://github.com/try-auroraview/auroraview-maya-outliner/commit/a23291314e6bf66d44568a4058dff2b7ffe3564e))
+* **deps:** update dependency lucide-vue-next to ^0.577.0 ([86696cd](https://github.com/try-auroraview/auroraview-maya-outliner/commit/86696cd6e48922345e5ec3ddbdab465e1496fd0a))
+* **deps:** update dependency lucide-vue-next to ^0.577.0 ([6b4d549](https://github.com/try-auroraview/auroraview-maya-outliner/commit/6b4d54911d440b434384f4380c2722a67ad23a9c))
+* restore runnable Maya Outliner tutorial ([#50](https://github.com/try-auroraview/auroraview-maya-outliner/issues/50)) ([59439e0](https://github.com/try-auroraview/auroraview-maya-outliner/commit/59439e050ab58b37b57b6507cf3823a2458ff98c))
+
+
+### Documentation
+
+* clarify license and attribution boundaries ([#54](https://github.com/try-auroraview/auroraview-maya-outliner/issues/54)) ([ac528bd](https://github.com/try-auroraview/auroraview-maya-outliner/commit/ac528bd2bd9208918c9e7d521ea1d7350f1bb875))
+
 ## [0.1.5](https://github.com/loonghao/auroraview-maya-outliner/compare/maya-outliner-v0.1.4...maya-outliner-v0.1.5) (2025-11-27)
 
 
