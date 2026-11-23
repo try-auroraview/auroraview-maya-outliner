@@ -161,3 +161,7 @@ The source demo archive in `dist/` contains the built frontend, frontend source,
 | Native wheel or WebView initialization failure | Check Maya's Python ABI, Windows x64 and WebView2 Runtime; capture the Script Editor traceback. |
 
 The project is originally by **Long Hao (loonghao)**. The preserved migration commit had no LICENSE file. The current repository-owned source is licensed under MIT in [LICENSE](LICENSE); see [provenance](docs/PROVENANCE.md). AuroraView and third-party dependencies retain their own independent licenses.
+
+## Attribution and trademarks
+
+Repository-owned source remains under the existing MIT license in [LICENSE](LICENSE). Maya, AuroraView, Qt bindings, WebView2, and other dependencies retain their own licenses. Commercial distribution contact is welcome and is not required. See [NOTICE](NOTICE) and [TRADEMARKS.md](TRADEMARKS.md).
